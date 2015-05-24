@@ -1,0 +1,13 @@
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\bin\Debug\TheTVDb.exe.config
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\bin\Debug\TheTVDb.exe
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\bin\Debug\TheTVDb.pdb
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\bin\Debug\RestSharp.dll
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\bin\Debug\TMDbLib.dll
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\bin\Debug\RestSharp.xml
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\bin\Debug\TMDbLib.pdb
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\obj\Debug\TheTVDb.csprojResolveAssemblyReference.cache
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\obj\Debug\TheTVDb.Properties.Resources.resources
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\obj\Debug\TheTVDb.csproj.GenerateResource.Cache
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\obj\Debug\TheTVDb.exe
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\obj\Debug\TheTVDb.pdb
+c:\users\joel\documents\visual studio 2013\Projects\TheTVDb_solution\TheTVDb\obj\Debug\TheTVDb.InfoGrabber.resources
